@@ -1,0 +1,7 @@
+print("my profile")
+print("----------")
+print("MY NAME IS DEEKSHITH KUMAR")
+print("<<<<<<<<<<<>>>>>>>>>>>>")
+print("I COMPLETED MY BTECH IN<<ANNA UNIVERSITY>>")
+print("I AM CURRENTLY PURSUING MY COURSE IN<<CODEGNAN>>")
+print("//<<<<<<<<<<< THE END >>>>>>>>>>>//")
