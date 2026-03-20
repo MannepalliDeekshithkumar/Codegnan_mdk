@@ -136,7 +136,7 @@ print(5&3)
 print(bin(5)) #returns binary number
 
 
-
+print(5|3)
 
 
 
