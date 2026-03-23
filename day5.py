@@ -24,4 +24,38 @@ print(f"Modulus (a % b): {a % b}") # Output: 1
 print(f"Exponentiation (a * b): {a * b}") # Output: 1000
 
 # Floor Division (returns the integer part of the quotient)
-print(f"Floor Division (a // b): {a // b}") # 
+print(f"Floor Division (a // b): {a // b}") #
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
